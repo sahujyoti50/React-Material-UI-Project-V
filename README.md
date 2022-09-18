@@ -1,3 +1,18 @@
+Covered Key Feature:
+
+1.Radio, 
+2.RadioGroup,
+3.FormLabel,
+4.FormControl,
+5.FormControlLabel,
+6.Box,
+7.FormHelperText,
+8.Radio with useState
+
+Layout:
+![image](https://user-images.githubusercontent.com/15225177/190902493-af4e5a38-37c9-4a5a-8a89-b0bbf68cc37c.png)
+
+**************************************************************************************************************************************************************
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

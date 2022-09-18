@@ -1,13 +1,13 @@
 Covered Key Feature:
 
-1.Radio, 
-2.RadioGroup,
-3.FormLabel,
-4.FormControl,
-5.FormControlLabel,
-6.Box,
-7.FormHelperText,
-8.Radio with useState
+1. Radio
+2. RadioGroup
+3. FormLabel
+4. FormControl
+5. FormControlLabel
+6. Box
+7. FormHelperText
+8. Radio with useState
 
 Layout:
 ![image](https://user-images.githubusercontent.com/15225177/190902532-59c46670-2f75-4a6f-b4b0-454fbc98792c.png)
